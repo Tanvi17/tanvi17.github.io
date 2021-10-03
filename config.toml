@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "Graduate Student  //  Machine Learning Engineer  //  Researcher "
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -38,15 +38,42 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "$ cd ~"
+      logoText = "$ cd /home"
       logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-  # And you can even create generic menu
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+[[params.social]]
+name = "email"
+url = "tanvibhandarkar17@gmail.com"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/tanvi-bhandarkar/"
+
+[[params.social]]
+name = "github"
+url = "https://www.github.com/Tanvi17/"
+
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/pseudo_adult"
+
+[[params.social]]
+name = "goodreads"
+url = "https://www.goodreads.com/user/show/113033478-tanvi-bhandarkar"
+
+
+
+# And you can even create generic menu
+[[menu.main]]
+identifier = "blog"
+name       = "Blog"
+url        = "/posts"
+
+[[menu.main]]
+identifier = "about"
+name       = "About"
+url        = "/posts"
