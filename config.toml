@@ -77,7 +77,7 @@ url        = "/about"
 [[menu.main]]
 identifier = "resume"
 name       = "Resume"
-url        = "https://drive.google.com/file/d/1Bgjgk-C1nOD_nf2yt5hOfBtzQ3Cw9G-O/view?usp=sharing"
+url        = "https://drive.google.com/file/d/1ZQjfRnM_2jevzDmZ1CCpzB4GSTS4nuLQ/view?usp=sharing"
 
 [params.footer]
 trademark = true
