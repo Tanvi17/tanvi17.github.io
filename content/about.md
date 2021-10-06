@@ -9,5 +9,3 @@ Interests: Machine Learning, Reinforcement Learning, Generative Modelling, Compu
 
 > CONTACT: <tanvibhandarkar17@gmail.com>
 
-
-(This site is under construction, thank you for your patience)
