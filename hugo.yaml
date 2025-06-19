@@ -88,7 +88,7 @@ params:
   homeInfoParams:
     Title: "hey there!"
     Content: >
-      exploring my curiosities in llms thru llms (+ rest of the internet)
+      figuring out llms through llms (+ rest of the internet)
   socialIcons:
     - name: github
       title: View Source on Github
