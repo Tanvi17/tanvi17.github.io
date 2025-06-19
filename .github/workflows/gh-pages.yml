@@ -36,7 +36,7 @@ jobs:
         # This action is the standard, reliable way to install Hugo in a workflow
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest' # Or pin to a specific version like '0.121.0'
+          hugo-version: '0.112.4'
           extended: true
 
       - name: Setup Pages
