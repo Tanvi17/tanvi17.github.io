@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://tanvi17.github.io/"
-title: Anatomy of ML Lifecycle
+title: tanvi
 paginate: 5
 theme: [PaperMod]
 
@@ -86,15 +86,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "welcome!"
+    Title: "hey there!"
     Content: >
-      - Hi! I enjoy learning from the first principles and this is my attempt to uncover the math & the science that fuel Machine Learning. 
       
-      - Research perspective is to get to the bottom of model creation and understanding their functionality. Model design, training techniques, hyperparameter optimization, serialization, evaluation, drift detection
-      
-      - Engineering perspective is to harnessing their superpower and fuel applications. Data collection and storage, infrastructure for Model training, deployment, inference and serving, monitoring systems
-
-
   socialIcons:
     - name: github
       title: View Source on Github
