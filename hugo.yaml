@@ -29,9 +29,9 @@ languages:
       series: series
     menu:
       main:
-        - name: About
-          url: about
-          weight: 2
+        # - name: About
+        #   url: about
+        #   weight: 2
         - name: Archive
           url: archives
           weight: 5
